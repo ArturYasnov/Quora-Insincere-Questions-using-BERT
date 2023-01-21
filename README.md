@@ -1,5 +1,4 @@
 # Quora-Insincere-Questions-using-BERT
-Example for toxic content detection.
 
 This repository contains a simple example of using BERT for detecting toxic content in online conversations, specifically targeting insincere questions on Quora.
 
